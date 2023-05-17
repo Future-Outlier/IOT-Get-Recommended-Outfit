@@ -1,0 +1,4 @@
+{
+    "DATASET_PATH": "/mnt/c/code/kaggle/archive/fashion-dataset/fashion-dataset",
+    "COMBINATION_JSON_PATH": "/mnt/c/code/kaggle/demo/data/combination.json"
+}

@@ -1,0 +1,2 @@
+1.Download Here:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/download?datasetVersionNumber=1
+2.Untar all the images in folder images
